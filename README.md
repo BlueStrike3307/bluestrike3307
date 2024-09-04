@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img alt="Website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fbluestrike3307.de">
+<img alt="Website" src="https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fbluestrike3307.com">
 
-- 📫 How to reach me: business@bluestrike3307.de
+- 📫 How to reach me: business@bluestrike3307.com
 
 <!--
 **BlueStrike3307/bluestrike3307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
